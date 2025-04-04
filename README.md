@@ -1,5 +1,5 @@
 ### Desafio Super Trunfo - Lógica - Progresso
 
-- [ ] Desafio Novato
+- [x] Desafio Novato
 - [ ] Desafio Aventureiro
 - [ ] Desafio Mestre

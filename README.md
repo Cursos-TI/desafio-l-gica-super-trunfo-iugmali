@@ -2,7 +2,7 @@
 
 - [x] Desafio Novato
 - [x] Desafio Aventureiro
-- [ ] Desafio Mestre
+- [x] Desafio Mestre
 
 ### Como rodar o projeto
 
